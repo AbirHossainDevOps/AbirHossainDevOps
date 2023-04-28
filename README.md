@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./abir-profile.banner.png)
 
 # Hi there 👋, I'm Abir 👨🏾‍💻
 ### Trainee DevOps & Cloud Engineer @ BJIT Academy | Avid Learner | Coder
