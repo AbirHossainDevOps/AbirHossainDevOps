@@ -1,4 +1,6 @@
-![Header](./abir-profile.banner.png)
+<div align="center">
+<img  src="./abir-profile.banner.png" />
+</div>
 
 # Hi there 👋, I'm Abir 👨🏾‍💻
 ### Trainee DevOps & Cloud Engineer @ BJIT Academy | Avid Learner | Coder
