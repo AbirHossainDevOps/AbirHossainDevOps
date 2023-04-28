@@ -45,6 +45,6 @@ I am currently learning about Linux, Express, AWS and networking. I am also lear
 ## My stats 📈
 
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abir364&hide_title=true&layout=compact&langs_count=6&theme=tokyonight" /><!-- wi*quL3fcV -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=abir364&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=AbirHossainDevOps&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />
 
-<p align="left"> <img height="30px" src="https://komarev.com/ghpvc/?username=abir364&label=Profile%20views&color=0e75b6&style=flat" alt="uksaha77" /> </p>
+<p align="left"> <img height="30px" src="https://komarev.com/ghpvc/?username=AbirHossainDevOps&label=Profile%20views&color=0e75b6&style=flat" alt="uksaha77" /> </p>
